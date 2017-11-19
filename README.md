@@ -4,7 +4,6 @@ Sends parallel emails to users using SMTP services.
 * import csv
 * import SMTP library
 * import multiprocessing
-install multiprocessing with the help of pip
 ### installation of multiprocessing
 open the cmd and change the directory into current directory
 * pip install multiprocessing
